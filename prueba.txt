@@ -1,1 +1,5 @@
-Practicando lo aprendido en el curso de Git
+Practicando lo aprendido en el curso de Git y Github
+
+En el curso de Platzi 
+
+En el reto de Road to Code !
