@@ -15,6 +15,10 @@ body {
 	margin: 0 auto;
 }
 
+#container #cabecera {
+	text-align: left;
+}
+
 #container h1 {
 	font-size: 20px;
 }
